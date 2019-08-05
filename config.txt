@@ -1,0 +1,19 @@
+# lines that are comments start with '#' symbol
+
+# Nanopool Account Info 
+nanopool_wallet_id: xxxxxxxxxxx
+nanopool_worker_name: xxxxxxxxxx
+
+# SMS Info
+# Provider Options Possible: tmobile, verizon, sprint, att
+destination_phone_number: xxxxxxxxxx
+destination_phone_provider: tmobile
+response_time_in_minutes: 30
+
+# Gmail sender info (to send sms message from)
+gmail_address_login: xxxxxx@gmail.com
+gmail_address_pass: xxxxxx
+
+#
+#   Leave this area as it is
+#
